@@ -1,0 +1,2 @@
+- [ ] Make the Container have a back
+- [ ] Add a flip on click event
